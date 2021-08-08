@@ -6,7 +6,7 @@ Tools for making garbage
 * New Plugins are hot-dropped into the server when they are added to the plugins folder
 * It's basically plugman also. You can unload load and reload plugins.  
 
-##Install
+## Install
 * Clone this project.  
 * Build this project with a version newer than Java 11.  
 * Put it in your server's plugins folder.  
