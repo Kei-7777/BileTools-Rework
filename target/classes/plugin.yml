@@ -1,0 +1,13 @@
+name: BileTools-Rework
+version: 1.7
+main: com.volmit.bile.BileTools
+authors:
+  - "Andrew Baker andrew@andrewcbaker.net"
+  - "Kei"
+commands: 
+  biletools:
+    aliases: [bile, bi, b, volmit, vomit, vom]
+permissions:
+  bile.use: 
+    description: Gives access to biletools
+    default: op
